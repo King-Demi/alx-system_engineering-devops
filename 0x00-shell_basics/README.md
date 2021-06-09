@@ -1,1 +1,1 @@
- scripts are running commands 
+The scripts are running commands 
